@@ -14,7 +14,7 @@
 ---
 
 <details>
-<summary><b>🇮🇹 Italiano</b></summary>
+<summary><b>🇮🇹 Italiano</b> | Profilo </summary>
 
 ## 👤 Chi sono
 
