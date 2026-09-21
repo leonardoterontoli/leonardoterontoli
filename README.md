@@ -26,7 +26,7 @@ Sono Leonardo, studente magistrale in **Data Analytics for Management** all'Univ
 
 ## 💼 Esperienza
 
-**Business Analyst Intern — CRIF S.p.A.** (ottobre 2024)
+**Business Analyst Intern — CRIF S.p.A.**
 - Script **SAS** per preparare e pulire dataset bancari, a supporto dello scoring del rischio di credito e della stima della probabilità di default.
 - Analisi statistiche per segmento su portafogli di carte di credito e mutui con **GINI index, Stability Index e Bad Rate**.
 - Consolidamento dei risultati in Excel (pivot, indici, grafici) e presentazione finale in PowerPoint al referente d'area.
@@ -67,7 +67,7 @@ I'm Leonardo, a master's student in **Data Analytics for Management** at the Uni
 
 ## 💼 Experience
 
-**Business Analyst Intern — CRIF S.p.A.** (October 2024)
+**Business Analyst Intern — CRIF S.p.A.**
 - Wrote **SAS** scripts to prepare and clean banking datasets, supporting credit risk scoring and probability-of-default estimation.
 - Ran segment-level statistical analyses on credit card and mortgage portfolios using **GINI index, Stability Index and Bad Rate**.
 - Consolidated results in Excel (pivot tables, indices, charts) and presented the final findings in PowerPoint to the area manager.
