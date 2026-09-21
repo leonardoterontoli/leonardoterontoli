@@ -1,6 +1,8 @@
-<h1 align="center">Hi, I'm Leonardo Terontoli 👋</h1>
+<h1 align="center">Hi, I'm Leonardo Terontoli 👋</h1> 
 
-</p> <p align="center"> <a href="https://www.linkedin.com/in/leonardo-terontoli/"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect%20%E2%86%92-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084482" alt="Connect with me on LinkedIn"> </a> </p> <p align="center">
+<p align="center"> <b>Data Analytics for Management</b> master student | Computer Science for Management graduate</p> 
+
+<p align="center"> <a href="https://www.linkedin.com/in/leonardo-terontoli/"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect%20%E2%86%92-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084482" alt="Connect with me on LinkedIn"> </a> </p> <p align="center">
 
 <p align="center">
   🌐 <b>Scegli la lingua | Choose your language / </b> — expand a section below 👇
@@ -19,7 +21,7 @@ Sono Leonardo, studente magistrale in **Data Analytics for Management** all'Univ
 
 - **Laurea Magistrale in Analisi dei Dati per il Management** — UNIMORE (dal 2025, in corso)
   Statistical learning e modelli predittivi, KPI e dashboard, governance del dato.
-- **Laurea Triennale in Informatica per il Management ** — Università di Bologna (2022–2025)
+- **Laurea Triennale in Informatica per il Management** — Università di Bologna (2022–2025)
   Programmazione, basi di dati, ingegneria del software, statistica, economia e finanza aziendale.
 
 ## 💼 Esperienza
