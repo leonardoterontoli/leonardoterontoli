@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Leonardo Terontoli 👋</h1>
 
 <p align="center">
-  Data Analytics for Management student · Business Analyst background · Computer Science for Management graduate<br>
+  Data Analytics for Management student · Computer Science for Management graduate<br>
   <a href="https://www.linkedin.com/in/leonardo-terontoli/">
     <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Terontoli-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
 <p align="center">
-  🌐 <b>Choose your language / Scegli la lingua</b> — expand a section below 👇
+  🌐 <b>Scegli la lingua | Choose your language / </b> — expand a section below 👇
 </p>
 
 ---
@@ -24,7 +24,7 @@ Sono Leonardo, studente magistrale in **Data Analytics for Management** all'Univ
 
 - **Laurea Magistrale in Analisi dei Dati per il Management** — UNIMORE (dal 2025, in corso)
   Statistical learning e modelli predittivi, KPI e dashboard, governance del dato.
-- **Laurea Triennale in Informatica per il Management (L-31)** — Università di Bologna (2022–2025)
+- **Laurea Triennale in Informatica per il Management ** — Università di Bologna (2022–2025)
   Programmazione, basi di dati, ingegneria del software, statistica, economia e finanza aziendale.
 
 ## 💼 Esperienza
@@ -48,19 +48,14 @@ Sono Leonardo, studente magistrale in **Data Analytics for Management** all'Univ
 
 - 💸 **Piattaforma di crowdfunding** ispirata a Kickstarter — PHP, MySQL, MongoDB
 - 📝 **Web app per scrivere e condividere note** — Java, sviluppata con metodologia Scrum
-- ✈️ **App Android per pianificare e tracciare viaggi** — Kotlin
 - 🃏 **Gioco di carte** con interfaccia grafica — Java, JavaFX
 - 💬 **Blog client-server** con gestione di concorrenza e sincronizzazione dei dati — Java
 - 📊 **Analisi ed esplorazione dati** con tecniche statistiche e visualizzazioni — Python
 
-## 📫 Contatti
-
-Connettiamoci su [LinkedIn](https://www.linkedin.com/in/leonardo-terontoli/): sono aperto a opportunità, stage e collaborazioni nel mondo dei dati.
-
 </details>
 
 <details>
-<summary><b>🇬🇧 English</b></summary>
+<summary><b>🇬🇧 English</b> | About me</summary>
 
 ## 👤 About me
 
@@ -70,7 +65,7 @@ I'm Leonardo, a master's student in **Data Analytics for Management** at the Uni
 
 - **MSc in Data Analytics for Management** — UNIMORE (2025 – present)
   Statistical learning and predictive modelling, KPI design and dashboards, data governance.
-- **BSc in Computer Science for Management (L-31)** — University of Bologna (2022–2025)
+- **BSc in Computer Science for Management** — University of Bologna (2022–2025)
   Programming, databases, software engineering, statistics, business economics and finance.
 
 ## 💼 Experience
@@ -95,7 +90,6 @@ I'm Leonardo, a master's student in **Data Analytics for Management** at the Uni
 
 - 💸 **Crowdfunding platform** inspired by Kickstarter — PHP, MySQL, MongoDB
 - 📝 **Web app for writing and sharing notes** — Java, built with Scrum
-- ✈️ **Android app for planning and tracking trips** — Kotlin
 - 🃏 **Card game** with a graphical interface — Java, JavaFX
 - 💬 **Client-server blog** with concurrency handling and data synchronization — Java
 - 📊 **Data exploration and analysis** with statistical techniques and visualizations — Python
@@ -103,13 +97,3 @@ I'm Leonardo, a master's student in **Data Analytics for Management** at the Uni
 </details>
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" alt="Tableau">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin">
-</p>
