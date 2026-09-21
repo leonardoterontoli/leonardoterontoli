@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Leonardo Terontoli 👋</h1>
 
-<p align="center">
-  Data Analytics for Management student · Computer Science for Management graduate<br>
-  <a href="https://www.linkedin.com/in/leonardo-terontoli/">
-    <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Terontoli-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+</p> <p align="center"> <a href="https://www.linkedin.com/in/leonardo-terontoli/"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect%20%E2%86%92-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084482" alt="Connect with me on LinkedIn"> </a> </p> <p align="center">
 
 <p align="center">
   🌐 <b>Scegli la lingua | Choose your language / </b> — expand a section below 👇
